@@ -117,8 +117,7 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>You’re welcome to Official verified financial Management, how can we help you and who gave you our contact ? and do as well  to follow the instructions properly..</p>
-          </div>
+            <p>Crypto.com Support is the customer service team for Crypto.com, a popular online platform used to buy, sell, and store cryptocurrencies such as Bitcoin, Ethereum, and many others. The Crypto.com Support team is responsible for: 1. Answering questions about Crypto.com services and features 2. Resolving issues related to accounts, transactions, and payments 3. Providing guidance on security, identity verification, and compliance 4. Assisting with technical problems, including login or connectivity issues</div>
         `
         break
       case "chat":
